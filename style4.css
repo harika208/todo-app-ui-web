@@ -1,0 +1,134 @@
+
+    .dis4{
+        border:2px solid #EDEDED;
+        height:200px;
+        width:340px;
+        background-color: white;
+        border-radius: 10px;
+        margin-left: calc((100vw - 340px)/2);
+        margin-right: calc((100vw - 340px)/2);
+        margin-top: calc((100vh - 200px)/2);
+        margin-bottom: calc((100vh - 200px)/2);
+        cursor: pointer;
+        position: relative;
+    
+    }
+    .into4{
+    position:absolute;
+    left: 310px;
+    font-size: 20px;
+    color:gray;
+    
+    }
+    
+    
+    
+    .but4{
+        padding:5px;
+        padding-bottom: 5px;
+        height: 30px;
+        width: 110px;
+        color:white;
+        background-color: blue;
+        border:1px solid blue;
+        border-radius: 3px;
+        margin-left: 220px;
+    }
+    .c4{
+    border: 1px solid #EDEDED;
+    color:#F7F7F7;
+    width: 310px;
+    background-color: #EDEDED;
+    margin-left: 10px;
+    
+    }
+    .set4{
+        margin-left: 10px;
+    }
+
+
+
+    .list{
+        color:#00A5EC;
+    }
+    .sheet2{
+        background-color: whitesmoke;
+        height: 565px;
+        
+        }
+        .plus1{
+            color:#00A5EC;
+            font-size: 35px;
+            margin-left: 200px;
+            padding-top: 30px;
+            
+        
+        }
+        .back{
+            font-size: 30px;
+            margin-left: 500px;
+            margin-right: 8px;
+        }
+        .arrow{
+            font-size: 20px;
+        }
+        .dis2{
+            border:2px solid #EDEDED;
+            height:230px;
+            width:350px;
+            background-color: white;
+            border-radius: 10px;
+            margin-left: 530px;
+            margin-top: 60px;
+        
+        }
+        .sh{
+            margin-left: 10px;
+            margin-right: 10px;
+            border: 1px solid #EDEDED;
+    
+        }
+        .hs{
+            text-decoration: line-through;
+            color: #c2c2c2;
+        }
+        .sh1{
+            margin-left:10px;
+        }
+        .right{
+            color:#c2c2c2;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+        .ttp{
+            color:#00A5EC;
+            text-align: center;
+        }
+
+        .dad{
+            position:absolute;
+        }
+
+        .son1{
+            z-index:-1;
+            top:0;
+            bottom:0;
+            left:0;
+            right:0;
+        }
+        .son2{
+            z-index: -1;
+            top:0;
+            bottom:0;
+            left:0;
+            right:0;
+            background-color: black;
+            opacity:60%;
+        }
+
+        a{
+            text-decoration: none;
+        }
+        hr{
+            color:#f7f2f2;
+        }

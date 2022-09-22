@@ -1,0 +1,138 @@
+.list{
+    color:#00A5EC;
+}
+
+
+.head{
+    
+    padding-left: 50px;
+    font-family: Inter;
+    font-weight: bold;
+    font-size: 40px;
+    color: #424242;
+}
+
+.plus{
+    color:#00A5EC;
+    font-size: 35px;
+    margin-left: 950px;
+    padding-top: 30px;
+    cursor: pointer;
+    
+
+}
+.right1{
+    color:#c2c2c2;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.task{
+    font-size: 20px;
+    padding-top: 36px;
+    padding-left: 10px;
+}
+.container{
+
+    background-color: #F7F7F7;
+}
+.cb{
+    background-color:#C2C2C2 ;
+    border:1px solid #EDEDED;
+    margin-left: 10px;
+}
+.cb1{
+    color: #C2C2C2;
+    text-decoration: line-through;
+}
+.cb2{
+    margin-left: 10px;
+}
+.b1{
+    color: black;
+}
+.set1{
+margin-left: 10px;
+}
+.container1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: #F7F7F7;
+    
+}
+
+.child1{
+    width: 250px;
+    height: 250px;
+    border:1px solid #EDEDED;
+    border-radius: 10px;
+    background-color: white;
+    color:#00A5EC;
+    margin: 30px 10px 10px 300px;
+    cursor: pointer;  
+    font: normal normal medium 20px/24px Inter;
+
+}
+.child1:hover{
+    box-shadow: 0 0 15px rgb(138, 136, 136);
+}
+.child2:hover{
+    box-shadow: 0 0 15px rgb(138, 136, 136);
+}
+.child3:hover{
+    box-shadow: 0 0 15px rgb(138, 136, 136);
+}
+.child4:hover{
+    box-shadow: 0 0 15px rgb(138, 136, 136);
+}
+.child5:hover{
+    box-shadow: 0 0 15px rgb(138, 136, 136);
+}
+a{
+    text-decoration: none;
+}
+hr{
+    color:#f7f2f2;
+}
+
+.child2{
+    width: 250px;
+    height: 250px;
+    border:1px solid #EDEDED;
+    border-radius: 10px;
+    background-color: white;
+    color:#00A5EC;
+    margin: 30px 10px 0px 10px;
+    cursor: pointer;
+}
+.child3{
+    width: 250px;
+    height: 250px;
+    border:1px solid #EDEDED;
+    border-radius: 10px;
+    background-color: white;
+    color:#00A5EC;
+    margin: 30px 200px 10px 10px;
+    cursor: pointer;
+
+}
+.child4{
+    width: 250px;
+    height: 250px;
+    border:1px solid #EDEDED;
+    border-radius: 10px;
+    background-color: white;
+    color:#00A5EC;
+    margin: 10px 10px 10px 300px;
+    cursor: pointer;
+}
+.child5{
+    width: 250px;
+    height: 250px;
+    border:1px solid #EDEDED;
+    border-radius: 10px;
+    background-color: white;
+    color:#00A5EC;
+    margin: 10px 0px 0px 10px;
+    cursor: pointer;
+}
